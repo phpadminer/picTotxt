@@ -87,7 +87,12 @@ if __name__ == '__main__':
         f.write(txt)
 ```
 
-###1.7 结语
+###1.7 运行代码
+在项目文件目录下运行如下代码
+```python3.6 main.py ascii_dora.png -o bilibili.txt```
+`ascil_dora.png` 是我的测试图片，`bilibili.txt`是我的输出文件名，各位可以自行定义！
+
+###1.8 结语
 本次项目至此已经全部完成！如果您有什么疑问可以直接在下面留言或者在我github上issue我！
 
 
